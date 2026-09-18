@@ -1,6 +1,6 @@
 # LLM Security Scanner
 
-A lightweight, automated red-teaming CLI for OpenAI-compatible chat models.
+Automated security testing framework for OpenAI-compatible chat models.
 
 ```
 Target LLM -> Attack Dataset -> Automated Testing -> Response Analyzer
